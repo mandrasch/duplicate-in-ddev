@@ -18,7 +18,9 @@ ddev exec 'cd web/ && wp plugin activate duplicate-in-ddev'
 ddev launch '/wp-admin/options-general.php?page=duplicate-in-ddev-page'
 ```
 
-## Technical background
+## Technical background / credits
 
-- created with `wp scaffold plugin`-command
+- plugin directory created with `wp scaffold plugin`-command
 - currently just copied from https://www.sitepoint.com/wordpress-settings-api-build-custom-admin-page/ tutorial
+
+License: Own source code additions - [CC0](https://creativecommons.org/publicdomain/zero/1.0/), do what you like with it. :-) I'll add proper credits if reworked.

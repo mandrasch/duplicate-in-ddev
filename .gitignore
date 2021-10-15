@@ -1,0 +1,13 @@
+# ignore web (internal wordpress)
+web/
+
+# ignore vendor
+vendor/
+
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite

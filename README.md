@@ -4,6 +4,10 @@ A simple plugin to give wp devs a starting point to setup their wordpress site i
 
 Status: First quick draft, use with caution / not on production.
 
+## Screenshot
+
+https://twitter.com/m_andrasch/status/1448735438987055105
+
 ## Setup local development
 
 ```
